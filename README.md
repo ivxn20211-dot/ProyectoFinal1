@@ -1,5 +1,4 @@
 # ProyectoFinal1
-KixHub
 Cual es el proposito de KixHub? 
 El propósito central de KixHub es ser la plataforma comunitaria de compra y venta más confiable y curada para los entusiastas del streetwear, los coleccionistas de zapatillas, y los seguidores de la cultura hypebeast, facilitando transacciones seguras de productos exclusivos y de reventa.
 
